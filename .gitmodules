@@ -1,0 +1,12 @@
+[submodule "rust_server"]
+	path = rust_server
+	url = https://github.com/Himal-Adhikari/rust_server.git
+[submodule "Python_server"]
+	path = Python_server
+	url = https://github.com/suyog2079/Python_server.git
+[submodule "voice_direction_finder"]
+	path = voice_direction_finder
+	url = https://github.com/ujwacha/voice_direction_finder.git
+[submodule "VoiceLocalizerEKF"]
+	path = VoiceLocalizerEKF
+	url = https://github.com/ujwacha/VoiceLocalizerEKF.git
